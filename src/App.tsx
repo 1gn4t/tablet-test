@@ -25,8 +25,6 @@ function App() {
               data={item[1]}
               title={item[0]}
               type={"employess"}
-
-              sada
             />
           );
         }

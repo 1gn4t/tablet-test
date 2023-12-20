@@ -14,8 +14,7 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-redux": "^9.0.1",
-    "react-window": "^1.8.10",
-    "yarn": "^1.22.21"
+    "react-window": "^1.8.10"
   },
   "devDependencies": {
     "@types/react": "^18.2.37",
@@ -28,9 +27,5 @@
     "eslint-plugin-react-refresh": "^0.4.4",
     "typescript": "^5.2.2",
     "vite": "^5.0.0"
-  },
-  "main": "index.js",
-  "repository": "git@github.com:1gn4t/tablet-test.git",
-  "author": "Ignat <ignat.vet18@gmail.com>",
-  "license": "MIT"
+  }
 }
